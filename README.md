@@ -22,7 +22,6 @@
 
 </div>
 </details>
-<br/>
 
 ## List
 | name                                      | platform    | level | solved date | minute | check                | link                                                                                 | type             |
@@ -47,8 +46,9 @@
 | [p_43162](/programmers/3_level/43162.cpp) | programmers | 3     | 2020-11-12  | N/A    | :white_check_mark:   | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/43162) | DFS/BFS          |
 | [p_12939](/programmers/2_level/12939.cpp) | programmers | 2     | 2020-11-13  | N/A    | :white_check_mark:   | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/12939) |                  |
 | [b_2042](/boj/gold/2042.cpp)              | BOJ         | g_1   | 2020-11-13  | N/A    | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2042)                     | segment tree     |
-| [b_1920](/boj/silver/2042.cpp)            | BOJ         | s_4   | 2020-11-14  | 11m    | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1920)                     | binary search    |
+| [b_1920](/boj/silver/1920.cpp)            | BOJ         | s_4   | 2020-11-14  | 11m    | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1920)                     | binary search    |
 | [b_1655](/boj/gold/1655.cpp)              | BOJ         | g_2   | 2020-11-14  | N/A    | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1655)                     | heap             |
+| [b_1912](/boj/silver/1912.cpp)            | BOJ         | s_2   | 2020-11-15  | 15m    | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1912)                     | DP               |
 
 
 
