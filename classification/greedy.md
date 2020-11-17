@@ -1,0 +1,5 @@
+## List
+| name                                      | platform    | level | solved date | minute | check                | link                                                                                 | type             |
+|:------------------------------------------|:------------|:------|:-----------:|:------:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
+| [p_42883](/programmers/2_level/42883.cpp) | programmers | 2     | 2020-11-03  | N/A    | :white_check_mark:   | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/42883) | greedy           |
+| [p_42885](/programmers/2_level/42885.cpp) | programmers | 2     | 2020-11-01  | N/A    | :white_check_mark:   | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/42885) | greedy           |

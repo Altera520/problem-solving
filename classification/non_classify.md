@@ -1,0 +1,7 @@
+## List
+| name                                      | platform    | level | solved date | minute | check                | link                                                                                 | type             |
+|:------------------------------------------|:------------|:------|:-----------:|:------:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
+| [p_12939](/programmers/2_level/12939.cpp) | programmers | 2     | 2020-11-13  | N/A    | :white_check_mark:   | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/12939) |                  |
+| [p_42839](/programmers/2_level/42839.cpp) | programmers | 2     | 2020-11-07  | N/A    | :white_large_square: | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/42839) |                  |
+| [p_12941](/programmers/2_level/12941.cpp) | programmers | 2     | 2020-11-06  | N/A    | :white_check_mark:   | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/12941) |                  |
+| [p_12953](/programmers/2_level/12953.cpp) | programmers | 2     | 2020-10-29  | N/A    | :white_check_mark:   | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/12953) |                  |

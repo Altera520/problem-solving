@@ -1,0 +1,5 @@
+## List
+| name                                      | platform    | level | solved date | minute | check                | link                                                                                 | type             |
+|:------------------------------------------|:------------|:------|:-----------:|:------:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
+| [b_1967](/boj/gold/1967.cpp)              | BOJ         | g_4   | 2020-11-17  | N/A    | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1967)                     | tree             |
+| [b_1167](/boj/gold/1167.cpp)              | BOJ         | g_3   | 2020-11-17  | N/A    | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1167)                     | tree             |
