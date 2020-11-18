@@ -1,4 +1,4 @@
 ## List
-| name                                      | platform    | level | solved date | minute | check                | link                                                                                 | type             |
-|:------------------------------------------|:------------|:------|:-----------:|:------:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
-| [p_42577](/programmers/2_level/42577.cpp) | programmers | 2     | 2020-10-31  | N/A    | :white_check_mark:   | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/42577) | hash             |
+| name                                      | platform    | level | solved date | re | check                | link                                                                                 | type             |
+|:------------------------------------------|:------------|:------|:-----------:|:--:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
+| [p_42577](/programmers/2_level/42577.cpp) | programmers | 2     | 2020-10-31  |    | :white_check_mark:   | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/42577) | hash             |
