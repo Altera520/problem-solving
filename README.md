@@ -5,10 +5,12 @@
 > *"quality rather than quantity"*
 
 **Rule**
-- 어쩔수 없는 날을 제외하고 하루에 최소 1PS (많이 푼다고 좋은 것이 아님)
-- programmers lv2, BOJ silver 이하 제한시간 최대 30분/ programmers lv3, BOJ gold 이상 최대40분 (문제 분석시간 포함)
-- 제한시간 초과시 해답보고 정리하기
-- 계속해서 새로운 알고리즘을 학습하고 응용하기
+- 어쩔수 없는 날을 제외하고 하루에 최소 1PS (꾸준하게! 양 보다는 질!!)
+- programmers lv2, BOJ silver 이하 제한시간 최대 30분,      
+programmers lv3, BOJ gold 이상 최대 40분 (문제 분석시간 포함)
+- 제한시간 초과시 해답보고 학습하기, 학습 후 비슷한 유형의 문제 풀어보기
+- 계속해서 새로운 유형의 알고리즘을 학습하고 응용하기
+- PS시 IDE 기능에 의존X (Repl.it 사용)
 
 ## Classification
 <details>
@@ -60,6 +62,7 @@
 ## List
 | name                                      | platform    | level | solved date | re | check                | link                                                                                 | type             |
 |:------------------------------------------|:------------|:------|:-----------:|:--:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
+| [b_2156](/boj/silver/2156.cpp)            | BOJ         | s_1   | 2020-11-19  |    | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2156)                     | dp               |
 | [b_2493](/boj/gold/2493.cpp)              | BOJ         | g_5   | 2020-11-18  |    | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2493)                     | stack_queue      |
 | [b_11437](/boj/gold/11437.cpp)            | BOJ         | g_3   | 2020-11-18  |    | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/11437)                    | tree, LCA        |
 | [b_1967](/boj/gold/1967.cpp)              | BOJ         | g_4   | 2020-11-17  |    | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1967)                     | tree             |

@@ -1,6 +1,7 @@
 ## List
 | name                                      | platform    | level | solved date | re | check                | link                                                                                 | type             |
 |:------------------------------------------|:------------|:------|:-----------:|:--:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
+| [b_2156](/boj/silver/2156.cpp)            | BOJ         | s_1   | 2020-11-19  |    | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2156)                     | dp               |
 | [b_2579](/boj/silver/2579.cpp)            | BOJ         | s_3   | 2020-11-17  |    | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2579)                     | dp               |
 | [b_1149](/boj/silver/1149.cpp)            | BOJ         | s_3   | 2020-11-17  |    | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1149)                     | dp               |
 | [b_1912](/boj/silver/1912.cpp)            | BOJ         | s_2   | 2020-11-15  |    | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1912)                     | dp               |
