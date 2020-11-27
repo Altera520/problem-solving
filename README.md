@@ -62,8 +62,10 @@ programmers lv3, BOJ gold 이상 최대 40분 (문제 분석시간 포함)
 ## List
 | name                                      | platform    | level | solved date | check                | link                                                                                 | type             |
 |:------------------------------------------|:------------|:------|:-----------:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
+| [p_12924](/programmers/2_level/12924.cpp) | programmers | 2     | 2020-11-27  | :white_check_mark:   | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/12924) |                  |
+| [b_1541](/boj/silver/1541.cpp)            | BOJ         | s_2   | 2020-11-27  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1541)                     | greedy           |
 | [b_11286](/boj/silver/11286.cpp)          | BOJ         | s_1   | 2020-11-26  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/11286)                    | heap             |
-| [b_2263](/boj/silver/2263.cpp)            | BOJ         | g_3   | 2020-11-26  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2263)                     | tree, order      |
+| [b_2263](/boj/gold/2263.cpp)              | BOJ         | g_3   | 2020-11-26  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2263)                     | tree, order      |
 | [b_10844](/boj/silver/10844.cpp)          | BOJ         | s_1   | 2020-11-24  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/10844)                    | dp               |
 | [b_2156](/boj/silver/2156.cpp)            | BOJ         | s_1   | 2020-11-19  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2156)                     | dp               |
 | [b_2493](/boj/gold/2493.cpp)              | BOJ         | g_5   | 2020-11-18  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2493)                     | stack_queue      |
