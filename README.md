@@ -62,6 +62,8 @@ programmers lv3, BOJ gold 이상 최대 40분 (문제 분석시간 포함)
 ## List
 | name                                      | platform    | level | solved date | check                | link                                                                                 | type             |
 |:------------------------------------------|:------------|:------|:-----------:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
+| [b_4195](/boj/gold/4195.cpp)              | BOJ         | g_2   | 2020-11-28  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/4195)                     | union-find       |
+| [b_1717](/boj/gold/1717.cpp)              | BOJ         | g_4   | 2020-11-28  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1717)                     | union-find       |
 | [p_12924](/programmers/2_level/12924.cpp) | programmers | 2     | 2020-11-27  | :white_check_mark:   | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/12924) |                  |
 | [b_1541](/boj/silver/1541.cpp)            | BOJ         | s_2   | 2020-11-27  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1541)                     | greedy           |
 | [b_11286](/boj/silver/11286.cpp)          | BOJ         | s_1   | 2020-11-26  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/11286)                    | heap             |
