@@ -62,6 +62,10 @@ programmers lv3, BOJ gold 이상 최대 40분 (문제 분석시간 포함)
 ## List
 | name                                      | platform    | level | solved date | check                | link                                                                                 | type             |
 |:------------------------------------------|:------------|:------|:-----------:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
+| [b_1759](/boj/gold/1759.cpp)              | BOJ         | g_5   | 2020-12-02  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1758)                     | permutation      |
+| [b_2573](/boj/gold/2573.cpp)              | BOJ         | g_4   | 2020-12-02  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2573)                     | dfs_bfs          |
+| [b_2003](/boj/gold/2003.cpp)              | BOJ         | s_3   | 2020-11-30  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2003)                     | two pointers     |
+| [b_1922](/boj/gold/1922.cpp)              | BOJ         | g_4   | 2020-11-28  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1922)                     | kruskal          |
 | [b_4195](/boj/gold/4195.cpp)              | BOJ         | g_2   | 2020-11-28  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/4195)                     | union-find       |
 | [b_1717](/boj/gold/1717.cpp)              | BOJ         | g_4   | 2020-11-28  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1717)                     | union-find       |
 | [p_12924](/programmers/2_level/12924.cpp) | programmers | 2     | 2020-11-27  | :white_check_mark:   | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/12924) |                  |
