@@ -12,57 +12,12 @@ programmers lv3, BOJ gold 이상 최대 40분 (문제 분석시간 포함)
 - 계속해서 새로운 유형의 알고리즘을 학습하고 응용하기
 - PS시 IDE 기능에 의존X (Repl.it 사용)
 
-## Classification
-<details>
-<summary>fold/unfold</summary>
-<div markdown="1">
-
-- **A**
-- **B**
-    - [binary search](/classification/binary_search.md)
-- **C**
-- **D**
-    - [DP](/classification/dp.md)
-    - [DFS/BFS](/classification/dfs_bfs.md)
-- **E**
-- **F**
-- **G**
-    - [greedy](/classification/greedy.md)
-- **H**
-    - [hash](/classification/hash.md)
-    - [heap](/classification/heap.md)
-- **I**
-- **J**
-- **K**
-    - [KMP](/classification/kmp.md)
-- **L**
-- **M**
-- **N**
-- **O**
-- **P**
-- **Q**
-- **R**
-- **S**
-    - [stack/queue](/classification/stack_queue.md)
-    - [sort](/classification/sort.md)
-- **T**
-    - [Trie](/classification/trie.md)
-    - [tree](/classification/tree.md)
-- **U**
-- **V**
-- **W**
-- **X**
-- **Y**
-- **Z**
-- [non-classify](/classification/non_classify.md)
-
-</div>
-</details>
-
 ## List
 | name                                      | platform    | level | solved date | check                | link                                                                                 | type             |
 |:------------------------------------------|:------------|:------|:-----------:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
-| [b_1759](/boj/gold/1759.cpp)              | BOJ         | g_5   | 2020-12-02  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1758)                     | permutation      |
+| [b_1520](/boj/gold/1520.cpp)              | BOJ         | g_4   | 2020-12-06  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1520)                     | dp, dfs_bfs      |
+| [b_11723](/boj/silver/11723.cpp)          | BOJ         | s_5   | 2020-12-03  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/11723)                    | bitmask          |
+| [b_1759](/boj/gold/1759.cpp)              | BOJ         | g_5   | 2020-12-02  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1759)                     | permutation      |
 | [b_2573](/boj/gold/2573.cpp)              | BOJ         | g_4   | 2020-12-02  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2573)                     | dfs_bfs          |
 | [b_2003](/boj/gold/2003.cpp)              | BOJ         | s_3   | 2020-11-30  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2003)                     | two pointers     |
 | [b_1922](/boj/gold/1922.cpp)              | BOJ         | g_4   | 2020-11-28  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1922)                     | kruskal          |

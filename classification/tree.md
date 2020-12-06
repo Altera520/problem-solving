@@ -1,7 +1,0 @@
-## List
-| name                                      | platform    | level | solved date | check                | link                                                                                 | type             |
-|:------------------------------------------|:------------|:------|:-----------:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
-| [b_2263](/boj/silver/2263.cpp)            | BOJ         | g_3   | 2020-11-26  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2263)                     | tree, order      |
-| [b_11437](/boj/gold/11437.cpp)            | BOJ         | g_3   | 2020-11-18  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/11437)                    | tree, LCA        |
-| [b_1967](/boj/gold/1967.cpp)              | BOJ         | g_4   | 2020-11-17  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1967)                     | tree             |
-| [b_1167](/boj/gold/1167.cpp)              | BOJ         | g_3   | 2020-11-17  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1167)                     | tree             |

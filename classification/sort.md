@@ -1,4 +1,0 @@
-## List
-| name                                      | platform    | level | solved date | re | check                | link                                                                                 | type             |
-|:------------------------------------------|:------------|:------|:-----------:|:--:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
-| [p_17686](/programmers/2_level/17686.cpp) | programmers | 2     | 2020-10-30  |    | :white_check_mark:   | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/17686) | sort             |
