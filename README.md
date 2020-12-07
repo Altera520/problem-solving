@@ -15,6 +15,8 @@ programmers lv3, BOJ gold 이상 최대 40분 (문제 분석시간 포함)
 ## List
 | name                                      | platform    | level | solved date | check                | link                                                                                 | type             |
 |:------------------------------------------|:------------|:------|:-----------:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
+| [p_42861](/programmers/3_level/42861.cpp) | programmers | 3     | 2020-12-07  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/42861)                    | kruskal          |
+| [p_42627](/programmers/3_level/42627.cpp) | programmers | 3     | 2020-12-07  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/42627)                    | heap             |
 | [b_1520](/boj/gold/1520.cpp)              | BOJ         | g_4   | 2020-12-06  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1520)                     | dp, dfs_bfs      |
 | [b_11723](/boj/silver/11723.cpp)          | BOJ         | s_5   | 2020-12-03  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/11723)                    | bitmask          |
 | [b_1759](/boj/gold/1759.cpp)              | BOJ         | g_5   | 2020-12-02  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1759)                     | permutation      |
@@ -30,7 +32,7 @@ programmers lv3, BOJ gold 이상 최대 40분 (문제 분석시간 포함)
 | [b_10844](/boj/silver/10844.cpp)          | BOJ         | s_1   | 2020-11-24  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/10844)                    | dp               |
 | [b_2156](/boj/silver/2156.cpp)            | BOJ         | s_1   | 2020-11-19  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2156)                     | dp               |
 | [b_2493](/boj/gold/2493.cpp)              | BOJ         | g_5   | 2020-11-18  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2493)                     | stack_queue      |
-| [b_11437](/boj/gold/11437.cpp)            | BOJ         | g_3   | 2020-11-18  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/11437)                    | tree, LCA        |
+| [b_11437](/boj/gold/11437.cpp)            | BOJ         | g_3   | 2020-11-18  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/11437)                    | LCA              |
 | [b_1967](/boj/gold/1967.cpp)              | BOJ         | g_4   | 2020-11-17  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1967)                     | tree             |
 | [b_1167](/boj/gold/1167.cpp)              | BOJ         | g_3   | 2020-11-17  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1167)                     | tree             |
 | [b_2579](/boj/silver/2579.cpp)            | BOJ         | s_3   | 2020-11-17  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2579)                     | dp               |
