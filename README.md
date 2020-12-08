@@ -15,6 +15,8 @@ programmers lv3, BOJ gold 이상 최대 40분 (문제 분석시간 포함)
 ## List
 | name                                      | platform    | level | solved date | check                | link                                                                                 | type             |
 |:------------------------------------------|:------------|:------|:-----------:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
+| [p_12900](/programmers/3_level/12900.cpp) | programmers | 3     | 2020-12-08  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/12900)                    | dp               |
+| [p_42898](/programmers/3_level/42898.cpp) | programmers | 3     | 2020-12-08  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/42898)                    | dp, dfs_bfs      |
 | [p_42861](/programmers/3_level/42861.cpp) | programmers | 3     | 2020-12-07  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/42861)                    | kruskal          |
 | [p_42627](/programmers/3_level/42627.cpp) | programmers | 3     | 2020-12-07  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/42627)                    | heap             |
 | [b_1520](/boj/gold/1520.cpp)              | BOJ         | g_4   | 2020-12-06  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1520)                     | dp, dfs_bfs      |
