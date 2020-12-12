@@ -15,9 +15,12 @@ programmers lv3, BOJ gold 이상 최대 40분 (문제 분석시간 포함)
 ## List
 | name                                        | platform    | level | solved date | check                | link                                                                                 | type             |
 |:--------------------------------------------|:------------|:------|:-----------:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
+| [b_1647](/boj/gold/1647.cpp)                | BOJ         | g_4   | 2020-12-12  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1647)                     | kruskal          |
+| [b_10282](/boj/gold/10282.cpp)              | BOJ         | g_4   | 2020-12-12  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/10282)                    | dijkstra         |
+| [b_2307](/boj/gold/2307.cpp)                | BOJ         | g_2   | 2020-12-12  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2307)                     | dijkstra         |
 | [b_1238](/boj/gold/1238.cpp)                | BOJ         | g_3   | 2020-12-11  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1238)                     | dijkstra         |
 | [b_1987](/boj/gold/1987.cpp)                | BOJ         | g_4   | 2020-12-10  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1987)                     | back tracking    |
-| [b_9663](/boj/gold/9663.cpp)                | BOJ         | g_5   | 2020-12-10  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/9663)                     | back racking     |
+| [b_9663](/boj/gold/9663.cpp)                | BOJ         | g_5   | 2020-12-10  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/9663)                     | back tracking    |
 | [b_sa_17472](/boj/gold/17472.cpp)           | BOJ         | g_3   | 2020-12-10  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/17472)                    | dfs_bfs, kruskal |
 | [p_12900](/programmers/3_level/12900.cpp)   | programmers | 3     | 2020-12-08  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/12900)                    | dp               |
 | [p_42898](/programmers/3_level/42898.cpp)   | programmers | 3     | 2020-12-08  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/42898)                    | dp, dfs_bfs      |
