@@ -11,12 +11,6 @@ int enemy_count = 0;
 vector<int> loc; //hunter x position
 int n,m,d;
 
-typedef struct info{
-    int x;
-    int y;
-    int level;
-}info;
-
 int simulation(){
     int temp[LEN][LEN];
     int cnt = 0;

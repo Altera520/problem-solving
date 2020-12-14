@@ -15,6 +15,7 @@ programmers lv3, BOJ gold 이상 최대 40분 (문제 분석시간 포함)
 ## List
 | name                                        | platform    | level | solved date | check                | link                                                                                 | type             |
 |:--------------------------------------------|:------------|:------|:-----------:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
+| [b_sa_17406](/boj/gold/17406.cpp)           | BOJ         | g_4   | 2020-12-14  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/17406)                    | implementation   |
 | [b_sa_17135](/boj/gold/17135.cpp)           | BOJ         | g_4   | 2020-12-13  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/17135)                    | implementation   |
 | [b_sa_17070](/boj/gold/17070.cpp)           | BOJ         | g_5   | 2020-12-13  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/17070)                    | dfs_bfs          |
 | [b_11404](/boj/gold/11404.cpp)              | BOJ         | g_4   | 2020-12-13  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/11404)                    | floyd-warshall   |
