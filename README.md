@@ -15,6 +15,11 @@ programmers lv3, BOJ gold 이상 최대 40분 (문제 분석시간 포함)
 ## List
 | name                                        | platform    | level | solved date | check                | link                                                                                 | type             |
 |:--------------------------------------------|:------------|:------|:-----------:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
+| [b_11053](/boj/silver/11053.cpp)            | BOJ         | s_2   | 2020-12-15  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/11053)                    | dp               |
+| [b_2193](/boj/silver/2193.cpp)              | BOJ         | s_3   | 2020-12-15  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2193)                     | dp               |
+| [b_1890](/boj/silver/1890.cpp)              | BOJ         | s_2   | 2020-12-15  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1890)                     | dp               |
+| [b_11048](/boj/silver/11048.cpp)            | BOJ         | s_1   | 2020-12-15  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/11048)                    | dp               |
+| [b_7569](/boj/silver/7569.cpp)              | BOJ         | s_1   | 2020-12-15  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/7569)                     | dfs_bfs          |
 | [b_sa_17406](/boj/gold/17406.cpp)           | BOJ         | g_4   | 2020-12-14  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/17406)                    | implementation   |
 | [b_sa_17135](/boj/gold/17135.cpp)           | BOJ         | g_4   | 2020-12-13  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/17135)                    | implementation   |
 | [b_sa_17070](/boj/gold/17070.cpp)           | BOJ         | g_5   | 2020-12-13  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/17070)                    | dfs_bfs          |
