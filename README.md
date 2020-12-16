@@ -15,6 +15,7 @@ programmers lv3, BOJ gold 이상 최대 40분 (문제 분석시간 포함)
 ## List
 | name                                        | platform    | level | solved date | check                | link                                                                                 | type             |
 |:--------------------------------------------|:------------|:------|:-----------:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
+| [b_11727](/boj/silver/11727.cpp)            | BOJ         | s_3   | 2020-12-16  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/11727)                    | dp               |
 | [b_11053](/boj/silver/11053.cpp)            | BOJ         | s_2   | 2020-12-15  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/11053)                    | dp               |
 | [b_2193](/boj/silver/2193.cpp)              | BOJ         | s_3   | 2020-12-15  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2193)                     | dp               |
 | [b_1890](/boj/silver/1890.cpp)              | BOJ         | s_2   | 2020-12-15  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1890)                     | dp               |
