@@ -15,6 +15,10 @@ programmers lv3, BOJ gold 이상 최대 40분 (문제 분석시간 포함)
 ## List
 | name                                        | platform    | level | solved date | check                | link                                                                                 | type             |
 |:--------------------------------------------|:------------|:------|:-----------:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
+| [b_11057](/boj/silver/11057.cpp)            | BOJ         | s_1   | 2020-12-17  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/11057)                    | dp               |
+| [b_1699](/boj/silver/1699.cpp)              | BOJ         | s_3   | 2020-12-17  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1699)                     | dp               |
+| [b_1309](/boj/silver/1309.cpp)              | BOJ         | s_1   | 2020-12-17  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1309)                     | dp               |
+| [b_11052](/boj/silver/11052.cpp)            | BOJ         | s_1   | 2020-12-17  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/11052)                    | dp               |
 | [b_11727](/boj/silver/11727.cpp)            | BOJ         | s_3   | 2020-12-16  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/11727)                    | dp               |
 | [b_11053](/boj/silver/11053.cpp)            | BOJ         | s_2   | 2020-12-15  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/11053)                    | dp               |
 | [b_2193](/boj/silver/2193.cpp)              | BOJ         | s_3   | 2020-12-15  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2193)                     | dp               |
