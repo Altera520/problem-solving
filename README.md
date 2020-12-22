@@ -15,6 +15,8 @@ programmers lv3, BOJ gold 이상 최대 40분 (문제 분석시간 포함)
 ## List
 | name                                        | platform    | level | solved date | check                | link                                                                                 | type             |
 |:--------------------------------------------|:------------|:------|:-----------:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
+| [b_2174](/boj/gold/2174.cpp)                | BOJ         | g_5   | 2020-12-22  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2174)                     |                  |
+| [b_11057](/boj/silver/12852.cpp)            | BOJ         | s_1   | 2020-12-21  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/12852)                    | dp               |
 | [b_3665](/boj/gold/3665.cpp)                | BOJ         | g_1   | 2020-12-19  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/3665)                     | topology sort    |
 | [b_2252](/boj/gold/2252.cpp)                | BOJ         | g_2   | 2020-12-19  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2252)                     | topology sort    |
 | [p_49189](/programmers/3_level/49189.cpp)   | programmers | 3     | 2020-12-18  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/49189)                    | dijkstra         |
