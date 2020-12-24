@@ -15,6 +15,9 @@ programmers lv3, BOJ gold 이상 최대 40분 (문제 분석시간 포함)
 ## List
 | name                                        | platform    | level | solved date | check                | link                                                                                 | type             |
 |:--------------------------------------------|:------------|:------|:-----------:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
+| [b_14502](/boj/gold/14502.cpp)              | BOJ         | g_5   | 2020-12-24  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/14502)                    |                  |
+| [b_16234](/boj/gold/16234.cpp)              | BOJ         | g_5   | 2020-12-24  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/16234)                    |                  |
+| [b_15686](/boj/gold/15686.cpp)              | BOJ         | g_5   | 2020-12-24  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/15686)                    |                  |
 | [b_14503](/boj/gold/14503.cpp)              | BOJ         | g_5   | 2020-12-23  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/14503)                    |                  |
 | [b_1726](/boj/gold/1726.cpp)                | BOJ         | g_4   | 2020-12-23  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1726)                     | dfs_bfs          |
 | [b_2638](/boj/gold/2638.cpp)                | BOJ         | g_4   | 2020-12-23  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2638)                     |                  |
