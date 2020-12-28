@@ -15,6 +15,8 @@ programmers lv3, BOJ gold 이상 최대 40분 (문제 분석시간 포함)
 ## List
 | name                                        | platform    | level | solved date | check                | link                                                                                 | type             |
 |:--------------------------------------------|:------------|:------|:-----------:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
+| [b_8972](/boj/gold/8972.cpp)                | BOJ         | g_4   | 2020-12-28  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/8972)                     |                  |
+| [b_18809](/boj/gold/18809.cpp)              | BOJ         | g_1   | 2020-12-28  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/18809)                    |                  |
 | [b_9466](/boj/gold/9466.cpp)                | BOJ         | g_4   | 2020-12-27  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/9466)                     | topology sort    |
 | [b_1976](/boj/gold/1976.cpp)                | BOJ         | g_4   | 2020-12-27  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1976)                     | floyd-warshall, union find     |
 | [p_42579](/programmers/3_level/42579.cpp)   | programmers | 3     | 2020-12-26  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/42579)                    | hash             |
