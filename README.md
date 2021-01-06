@@ -6,15 +6,16 @@
 
 **Rule**
 - 어쩔수 없는 날을 제외하고 하루에 최소 1PS (꾸준하게! 양 보다는 질!!)
-- programmers lv2, BOJ silver 이하 제한시간 최대 30분,      
-programmers lv3, BOJ gold 이상 최대 40분 (문제 분석시간 포함)
 - 제한시간 초과시 해답보고 학습하기, 학습 후 비슷한 유형의 문제 풀어보기
-- 계속해서 새로운 유형의 알고리즘을 학습하고 응용하기
-- PS시 IDE 기능에 의존X (**Repl.it** 사용)
+- 계속해서 새로운 유형의 알고리즘을 학습하기
 
 ## List
 | name                                        | platform    | level | solved date | check                | link                                                                                 | type             |
 |:--------------------------------------------|:------------|:------|:-----------:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
+| [b_1931](/boj/gold/1931.cpp)                | BOJ         | s_2   | 2020-01-06  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/8972)                     | greedy           |
+| [b_8972](/boj/gold/1781.cpp)                | BOJ         | g_1   | 2020-01-06  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/8972)                     | greedy           |
+| [p_42579](/programmers/3_level/49993.cpp)   | programmers | 2     | 2021-01-03  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/49993)                    |                  |
+| [p_42579](/programmers/3_level/68645.cpp)   | programmers | 2     | 2021-01-03  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/68645)                    |                  |
 | [b_8972](/boj/gold/8972.cpp)                | BOJ         | g_4   | 2020-12-28  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/8972)                     |                  |
 | [b_18809](/boj/gold/18809.cpp)              | BOJ         | g_1   | 2020-12-28  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/18809)                    |                  |
 | [b_9466](/boj/gold/9466.cpp)                | BOJ         | g_4   | 2020-12-27  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/9466)                     | topology sort    |
