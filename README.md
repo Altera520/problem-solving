@@ -12,10 +12,12 @@
 ## List
 | name                                        | platform    | level | solved date | check                | link                                                                                 | type             |
 |:--------------------------------------------|:------------|:------|:-----------:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
-| [b_1931](/boj/gold/1931.cpp)                | BOJ         | s_2   | 2020-01-06  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/8972)                     | greedy           |
-| [b_8972](/boj/gold/1781.cpp)                | BOJ         | g_1   | 2020-01-06  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/8972)                     | greedy           |
-| [p_42579](/programmers/3_level/49993.cpp)   | programmers | 2     | 2021-01-03  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/49993)                    |                  |
-| [p_42579](/programmers/3_level/68645.cpp)   | programmers | 2     | 2021-01-03  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/68645)                    |                  |
+| [b_2485](/boj/silver/2485.cpp)              | BOJ         | s_4   | 2020-01-07  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2485)                     | gcd              |
+| [b_2583](/boj/silver/2583.cpp)              | BOJ         | s_1   | 2020-01-07  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2583)                     | dfs,bfs          |
+| [b_1931](/boj/silver/1931.cpp)              | BOJ         | s_2   | 2020-01-06  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1931)                     | greedy           |
+| [b_8972](/boj/gold/1781.cpp)                | BOJ         | g_1   | 2020-01-06  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1781)                     | greedy           |
+| [p_49993](/programmers/3_level/49993.cpp)   | programmers | 2     | 2021-01-03  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/49993)                    |                  |
+| [p_68645](/programmers/3_level/68645.cpp)   | programmers | 2     | 2021-01-03  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/68645)                    |                  |
 | [b_8972](/boj/gold/8972.cpp)                | BOJ         | g_4   | 2020-12-28  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/8972)                     |                  |
 | [b_18809](/boj/gold/18809.cpp)              | BOJ         | g_1   | 2020-12-28  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/18809)                    |                  |
 | [b_9466](/boj/gold/9466.cpp)                | BOJ         | g_4   | 2020-12-27  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/9466)                     | topology sort    |
@@ -27,7 +29,7 @@
 | [b_16234](/boj/gold/16234.cpp)              | BOJ         | g_5   | 2020-12-24  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/16234)                    |                  |
 | [b_15686](/boj/gold/15686.cpp)              | BOJ         | g_5   | 2020-12-24  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/15686)                    |                  |
 | [b_14503](/boj/gold/14503.cpp)              | BOJ         | g_5   | 2020-12-23  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/14503)                    |                  |
-| [b_1726](/boj/gold/1726.cpp)                | BOJ         | g_4   | 2020-12-23  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1726)                     | dfs_bfs          |
+| [b_1726](/boj/gold/1726.cpp)                | BOJ         | g_4   | 2020-12-23  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1726)                     | dfs,bfs          |
 | [b_2638](/boj/gold/2638.cpp)                | BOJ         | g_4   | 2020-12-23  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2638)                     |                  |
 | [b_2636](/boj/gold/2636.cpp)                | BOJ         | g_5   | 2020-12-23  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2636)                     |                  |
 | [b_2146](/boj/gold/2146.cpp)                | BOJ         | g_3   | 2020-12-23  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2146)                     |                  |
@@ -45,10 +47,10 @@
 | [b_2193](/boj/silver/2193.cpp)              | BOJ         | s_3   | 2020-12-15  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2193)                     | dp               |
 | [b_1890](/boj/silver/1890.cpp)              | BOJ         | s_2   | 2020-12-15  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1890)                     | dp               |
 | [b_11048](/boj/silver/11048.cpp)            | BOJ         | s_1   | 2020-12-15  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/11048)                    | dp               |
-| [b_7569](/boj/silver/7569.cpp)              | BOJ         | s_1   | 2020-12-15  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/7569)                     | dfs_bfs          |
+| [b_7569](/boj/silver/7569.cpp)              | BOJ         | s_1   | 2020-12-15  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/7569)                     | dfs,bfs          |
 | [b_sa_17406](/boj/gold/17406.cpp)           | BOJ         | g_4   | 2020-12-14  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/17406)                    | implementation   |
 | [b_sa_17135](/boj/gold/17135.cpp)           | BOJ         | g_4   | 2020-12-13  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/17135)                    | implementation   |
-| [b_sa_17070](/boj/gold/17070.cpp)           | BOJ         | g_5   | 2020-12-13  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/17070)                    | dfs_bfs          |
+| [b_sa_17070](/boj/gold/17070.cpp)           | BOJ         | g_5   | 2020-12-13  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/17070)                    | dfs,bfs          |
 | [b_11404](/boj/gold/11404.cpp)              | BOJ         | g_4   | 2020-12-13  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/11404)                    | floyd-warshall   |
 | [b_1647](/boj/gold/1647.cpp)                | BOJ         | g_4   | 2020-12-12  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1647)                     | kruskal          |
 | [b_10282](/boj/gold/10282.cpp)              | BOJ         | g_4   | 2020-12-12  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/10282)                    | dijkstra         |
@@ -56,15 +58,15 @@
 | [b_1238](/boj/gold/1238.cpp)                | BOJ         | g_3   | 2020-12-11  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1238)                     | dijkstra         |
 | [b_1987](/boj/gold/1987.cpp)                | BOJ         | g_4   | 2020-12-10  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1987)                     | back tracking    |
 | [b_9663](/boj/gold/9663.cpp)                | BOJ         | g_5   | 2020-12-10  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/9663)                     | back tracking    |
-| [b_sa_17472](/boj/gold/17472.cpp)           | BOJ         | g_3   | 2020-12-10  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/17472)                    | dfs_bfs, kruskal |
+| [b_sa_17472](/boj/gold/17472.cpp)           | BOJ         | g_3   | 2020-12-10  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/17472)                    | dfs,bfs, kruskal |
 | [p_12900](/programmers/3_level/12900.cpp)   | programmers | 3     | 2020-12-08  | :white_check_mark:   | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/12900) | dp               |
-| [p_42898](/programmers/3_level/42898.cpp)   | programmers | 3     | 2020-12-08  | :white_large_square: | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/42898) | dp, dfs_bfs      |
+| [p_42898](/programmers/3_level/42898.cpp)   | programmers | 3     | 2020-12-08  | :white_large_square: | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/42898) | dp, dfs,bfs      |
 | [p_42861](/programmers/3_level/42861.cpp)   | programmers | 3     | 2020-12-07  | :white_check_mark:   | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/42861) | kruskal          |
 | [p_42627](/programmers/3_level/42627.cpp)   | programmers | 3     | 2020-12-07  | :white_check_mark:   | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/42627) | heap             |
-| [b_1520](/boj/gold/1520.cpp)                | BOJ         | g_4   | 2020-12-06  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1520)                     | dp, dfs_bfs      |
+| [b_1520](/boj/gold/1520.cpp)                | BOJ         | g_4   | 2020-12-06  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1520)                     | dp, dfs,bfs      |
 | [b_11723](/boj/silver/11723.cpp)            | BOJ         | s_5   | 2020-12-03  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/11723)                    | bitmask          |
 | [b_1759](/boj/gold/1759.cpp)                | BOJ         | g_5   | 2020-12-02  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1759)                     | permutation      |
-| [b_2573](/boj/gold/2573.cpp)                | BOJ         | g_4   | 2020-12-02  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2573)                     | dfs_bfs          |
+| [b_2573](/boj/gold/2573.cpp)                | BOJ         | g_4   | 2020-12-02  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2573)                     | dfs,bfs          |
 | [b_2003](/boj/gold/2003.cpp)                | BOJ         | s_3   | 2020-11-30  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2003)                     | two pointers     |
 | [b_1922](/boj/gold/1922.cpp)                | BOJ         | g_4   | 2020-11-28  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1922)                     | kruskal          |
 | [b_4195](/boj/gold/4195.cpp)                | BOJ         | g_2   | 2020-11-28  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/4195)                     | union find       |
@@ -87,9 +89,9 @@
 | [b_1920](/boj/silver/1920.cpp)              | BOJ         | s_4   | 2020-11-14  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1920)                     | binary search    |
 | [b_2042](/boj/gold/2042.cpp)                | BOJ         | g_1   | 2020-11-13  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2042)                     | segment tree     |
 | [p_12939](/programmers/2_level/12939.cpp)   | programmers | 2     | 2020-11-13  | :white_check_mark:   | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/12939) |                  |
-| [p_43162](/programmers/3_level/43162.cpp)   | programmers | 3     | 2020-11-12  | :white_check_mark:   | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/43162) | dfs_bfs          |
+| [p_43162](/programmers/3_level/43162.cpp)   | programmers | 3     | 2020-11-12  | :white_check_mark:   | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/43162) | dfs,bfs          |
 | [p_43105](/programmers/3_level/43105.cpp)   | programmers | 3     | 2020-11-12  | :white_check_mark:   | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/43105) | dp               |
-| [p_43163](/programmers/3_level/43163.cpp)   | programmers | 3     | 2020-11-10  | :white_check_mark:   | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/43163) | dfs_bfs          |
+| [p_43163](/programmers/3_level/43163.cpp)   | programmers | 3     | 2020-11-10  | :white_check_mark:   | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/43163) | dfs,bfs          |
 | [p_42628](/programmers/3_level/42628.cpp)   | programmers | 3     | 2020-11-10  | :white_check_mark:   | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/42628) | heap             |
 | [p_42839](/programmers/2_level/42839.cpp)   | programmers | 2     | 2020-11-07  | :white_large_square: | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/42839) |                  |
 | [p_42584](/programmers/2_level/42584.cpp)   | programmers | 2     | 2020-11-07  | :white_check_mark:   | :arrow_lower_right: [link](https://programmers.co.kr/learn/courses/30/lessons/42584) | stack_queue      |
