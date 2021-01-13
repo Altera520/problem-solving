@@ -12,6 +12,9 @@
 ## List
 | name                                        | platform    | level | solved date | check                | link                                                                                 | type             |
 |:--------------------------------------------|:------------|:------|:-----------:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
+| [b_1613](/boj/gold/1613.cpp)                | BOJ         | g_3   | 2020-01-13  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1613)                     | floyd-warshall   |
+| [b_6198](/boj/gold/6198.cpp)                | BOJ         | g_5   | 2020-01-13  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/6198)                     | stack            |
+| [b_2805](/boj/silver/2805.cpp)              | BOJ         | s_3   | 2020-01-08  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2805)                     | binary search    |
 | [b_2485](/boj/silver/2485.cpp)              | BOJ         | s_4   | 2020-01-07  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2485)                     | gcd              |
 | [b_2583](/boj/silver/2583.cpp)              | BOJ         | s_1   | 2020-01-07  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2583)                     | dfs,bfs          |
 | [b_1931](/boj/silver/1931.cpp)              | BOJ         | s_2   | 2020-01-06  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1931)                     | greedy           |
