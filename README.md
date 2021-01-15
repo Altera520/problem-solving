@@ -12,6 +12,9 @@
 ## List
 | name                                        | platform    | level | solved date | check                | link                                                                                 | type             |
 |:--------------------------------------------|:------------|:------|:-----------:|---------------------:|-------------------------------------------------------------------------------------:|:-----------------|
+| [b_1916](/boj/gold/1916.cpp)                | BOJ         | g_5   | 2020-01-15  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1916)                     | dijkstra         |
+| [b_2661](/boj/gold/2661.cpp)                | BOJ         | g_4   | 2020-01-15  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2661)                     | back tracking    |
+| [b_1786](/boj/gold/1786.cpp)                | BOJ         | g_1   | 2020-01-14  | :white_large_square: | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1786)                     | kmp              |
 | [b_1613](/boj/gold/1613.cpp)                | BOJ         | g_3   | 2020-01-13  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/1613)                     | floyd-warshall   |
 | [b_6198](/boj/gold/6198.cpp)                | BOJ         | g_5   | 2020-01-13  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/6198)                     | stack            |
 | [b_2805](/boj/silver/2805.cpp)              | BOJ         | s_3   | 2020-01-08  | :white_check_mark:   | :arrow_lower_right: [link](https://www.acmicpc.net/problem/2805)                     | binary search    |
