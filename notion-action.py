@@ -101,6 +101,7 @@ def file2problem(access_token: str, repo_name: str, sha: str) -> List[Problem]:
     :param sha:
     :return:
     """
+    print(sha)
     g = Github(access_token)
     repo = g.get_repo(repo_name)
     commit = repo.get_commit(sha)
@@ -122,6 +123,7 @@ def file2problem(access_token: str, repo_name: str, sha: str) -> List[Problem]:
     for file in commit.files:
         if file.filename in EXCEPT_FILENAME:
             continue
+        print(file.filename)
         platform, level, filename = file.filename.split('/')
         category = get_category(file)
         problems.append(Problem(platform, level, filename, category, False, file.blob_url, file.status))
