@@ -18,7 +18,7 @@ PLATFORM = {
     'leetcode': 'https://leetcode.com/problems/{}/'
 }
 
-EXCEPT_FILENAME = ['notion-action.py', 'README.md']
+EXCEPT_FILENAME = ['notion-action.py', 'README.md', 'requirements.txt']
 
 
 class Problem:

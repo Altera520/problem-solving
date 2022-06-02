@@ -4,7 +4,7 @@
 
 > *"quality rather than quantity"*
 
-[**문제 유형별 Classification**](https://www.notion.so/PS-code-set-022d134f41fe43d485cf5ee7b0bc3381)
+[**문제 유형별 Classification**](https://www.notion.so/e0f2512908fb4a14abbfdab99387d996?v=3065b2f333784ca285776e7312c937f3)
 
 ## Rule
 
