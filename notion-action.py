@@ -71,6 +71,12 @@ class Problem:
                 # column
                 'platform': {
                     'select': {
+                        'name': self.platform,
+                    }
+                },
+                # column
+                'level': {
+                    'select': {
                         'name': self.level,
                     }
                 },
