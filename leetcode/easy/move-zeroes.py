@@ -1,10 +1,9 @@
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
         pt = 0
-        for loc, num in enumerate(nums):
-            if num != 0:
-                nums[pt] = num
+        for k, v in enumerate(nums):
+            if v != 0:
+                nums[k] = 0
+                nums[pt] = v
                 pt += 1
-            if loc != pt - 1:
-                nums[loc] = 0
         
