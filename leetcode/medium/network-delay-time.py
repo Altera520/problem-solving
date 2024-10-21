@@ -5,6 +5,10 @@ from collections import defaultdict, namedtuple
 Node = namedtuple('Node', ['weight', 'no'])
 
 class Dijkstra:
+    """
+    특정 노드에서 다른 모든 노드까지 최단 경로 산출 (greedy)
+    E: Edge, N: Node, O(ElogN)
+    """
 
     def __init__(self, size):
         self.distance = [math.inf for _ in range(size + 1)]
