@@ -44,7 +44,6 @@ class Solution:
             (1, 0),
             (-1, 0),
         ]
-        visited = {}
 
         for y in range(psz):
             for x in range(psz):
